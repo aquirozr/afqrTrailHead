@@ -1,0 +1,5 @@
+<aura:component implements="force:appHostable,flexipage:availableForRecordHome,force:hasRecordId,force:lightningQuickAction" controller="ProbandoTabsController">
+	
+    <h1>HOLA MUNDO</h1>
+    tonsss 
+</aura:component>
